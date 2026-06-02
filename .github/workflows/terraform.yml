@@ -33,9 +33,4 @@ jobs:
         run: terraform plan
 
       - name: Terraform Apply
-<<<<<<< HEAD
-        run: terraform apply -auto-approve
-=======
-        run: terraform apply -auto-approve
-      
->>>>>>> bef2701a33178d1aaed8fca3fd0fa7ac8b7fa950
+
